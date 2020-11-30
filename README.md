@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-Linkedin : https://www.linkedin.com/in/g%C3%BCldeniz-bekta%C5%9F-6336a8178/
-Medium : https://medium.com/@gdenizbektass
+## Linkedin : https://www.linkedin.com/in/g%C3%BCldeniz-bekta%C5%9F-6336a8178/
+
+## Medium : https://medium.com/@gdenizbektass
 
 <!--
 **GuldenizBektas/GuldenizBektas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
