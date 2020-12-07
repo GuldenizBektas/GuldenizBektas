@@ -1,8 +1,24 @@
 ### Hi there 👋
 
-## Linkedin : https://www.linkedin.com/in/g%C3%BCldeniz-bekta%C5%9F-6336a8178/
+Hello there! I am learning every day to be a great Data Scientist. Still a lot to learn!
 
-## Medium : https://medium.com/@gdenizbektass
+Currently Practicing:
+
+🌱 EDA
+
+💬 Machine Learning Algorithms
+
+Currently learning:
+
+🚀 Keras
+
+💻 Pytorch
+
+🔭 Statistics
+
+Linkedin : https://www.linkedin.com/in/g%C3%BCldeniz-bekta%C5%9F-6336a8178/
+
+Medium : https://medium.com/@gdenizbektass
 
 <!--
 **GuldenizBektas/GuldenizBektas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
