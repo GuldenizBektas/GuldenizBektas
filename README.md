@@ -1,42 +1,47 @@
-<h1 align="center"> Hi, I'm Güldeniz! 👋 Mucho Gusto!</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=GuldenizBektas" alt="GuldenizBektas" /> </p>
+### Hey 👋, I'm [Güldeniz!](https://guldenizbektas.github.io)
 
-<h1 align="center"><b> Learn every day, and code! </b></h1>
+<a href="https://www.linkedin.com/in/GuldenizBektas/">
+  <img align="left" alt="Güldeniz's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.kaggle.com/denizbektas">
+  <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
+</a>
+<a href="https://www.instagram.com/givingthemvision/">
+  <img align="left" alt="Güldeniz's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.twitter.com/givinthemvision">
+  <img align="left" alt="Güldeniz's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
 
-<div align="center">
-   
-   <a href="https://github.com/GuldenizBektas" target="_blank">
-      <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-   </a>
-   <a href="https://twitter.com/gdenizbektass" target="_blank">
-      <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-   </a>
-   <a href="https://www.linkedin.com/in/g%C3%BCldeniz-bekta%C5%9F-6336a8178/" target="_blank">
-      <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-   </a>
-   <a href="https://www.kaggle.com/denizbektas" target="_blank">
-      <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-   </a>
-   <a href="https://medium.com/@gdenizbektass" target="_blank">
-      <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px; />
-   </a>  
-   <a href = "mailto: gdenizbektass@gmail.com"><img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white /></a>
-   
-</div>
+<br />
+<br />
 
-<h1 align="center"> Languages, Frameworks & Tools </h1>
+Hi there, I'm **Güldeniz Bektaş**, a **Data Scientist** and a **newly graduated from Astronomy and Space Sciences in İstanbul University** 👩🏼‍🎓 🚀 Currently, I'm a WTM Women Techmaker Ambassador 👩🏼‍🚀 [@GuldenizBektas](https://github.com/GuldenizBektas), Kaggler 👩🏻‍💼 [@Kaggle](https://www.kaggle.com/denizbektas), and a writer, check my articles in multiple famous publications 👩🏼‍💻 [@Medium](https://medium.com/@gdenizbektass). 
 
-<div align = "center">
-  <img src=https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen />
-  <img src=https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white />
-  <img src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white />
-  <img src=https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white />
-  <img src=https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white />
-  <img src=https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white />
-  <img src=https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white />
-  <img src=https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white /> 
-  <img src=https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white />
-  <img src=https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white/>
-  <img src=https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white />
-  <img src=https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white />
-</div>
+  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+**Talking about Personal Stuffs:**
+
+- 👩🏼‍💻 Jr. Data Scientist at Denebunu
+- 🎊 Women Techmaker Ambassador
+- 🎈 #IamRemarkable Facilitator
+- 🌱 Guide in Deep Learning Study Group Batch 8 by inzva and ML Bootcamp by inza&GDG İstanbul
+- 💁🏼‍♀️ Organization Team Member at [Devnot](https://devnot.com)
+- 🤔 My interests are with Computer Vision, GANs, VAE etc..
+- 💬 Ask me about anything, I am happy to help
+- 📫 Please email via gdenizbektass@gmail.com to reach me.
+- 📝 See my [personal website](https://guldenizbektas.github.io) to get more info.
+
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://www.postgresql.org/media/img/about/press/elephant.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+![Güldeniz's github stats](https://github-readme-stats.vercel.app/api?username=GuldenizBektas&show_icons=true&hide_border=true)
+
+⭐️ From [CallmeMehdi](https://github.com/CallmeMehdi)
