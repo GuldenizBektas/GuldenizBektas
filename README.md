@@ -32,10 +32,10 @@ Hi there, I'm **Güldeniz Bektaş**, a **Data Scientist** and a **newly graduate
 <a href="https://podcasts.apple.com/us/podcast/yapay-mı-bu-zeka/id1632590370">
   <img align="left" alt="ApplePodcast" width="22px" src="https://www.apple.com/v/apple-podcasts/c/images/overview/hero_icon__c135x5gz14mu_large.png" />
 </a>
-<a href="https://podcasts.apple.com/us/podcast/yapay-mı-bu-zeka/id1632590370">
+<a href="https://open.spotify.com/show/6Sc5K6nElR6BF4d1CapeAK">
   <img align="left" alt="SpotifyPodcast" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png" />
 </a>
-<a href="https://podcasts.apple.com/us/podcast/yapay-mı-bu-zeka/id1632590370">
+<a href="[https://podcasts.apple.com/us/podcast/yapay-mı-bu-zeka/id1632590370](https://anchor.fm/g374ldeniz-bektau015f)">
   <img align="left" alt="Anchor" width="22px" src="https://www.apkmirror.com/wp-content/uploads/2021/08/08/6123cd04ae65a.png" />
 </a>
 
