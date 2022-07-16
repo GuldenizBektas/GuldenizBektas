@@ -25,9 +25,7 @@
 Hi there, I'm **Güldeniz Bektaş**, a **Data Scientist** and a **newly graduated from Astronomy and Space Sciences in İstanbul University** 👩🏼‍🎓 🚀 Currently, I'm a WTM Women Techmaker Ambassador 👩🏼‍🚀 [@GuldenizBektas](https://github.com/GuldenizBektas), Kaggler 👩🏻‍💼 [@Kaggle](https://www.kaggle.com/denizbektas), and a writer, check my articles in multiple famous publications 👩🏼‍💻 [@Medium](https://medium.com/@gdenizbektass). 
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-  
-<br />
-<br />
+
 
 **I own a podcast called ["Yapay mı Bu Zeka?"](https://anchor.fm/g374ldeniz-bektau015f). It's Turkish. I'm talking about AI without technical or complicated detail. You can listen to my podcast and share your feedbacks with me! 🎙**
 
