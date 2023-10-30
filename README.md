@@ -22,7 +22,7 @@
 <br />
 <br />
 
-Hi there, I'm **Güldeniz Bektaş**, a **AI Engineer** and ** graduated from Astronomy and Space Sciences in İstanbul University** 👩🏼‍🎓 🚀 Currently, I'm an AI Engineer at TurkNet 👩🏼‍🚀 [@GuldenizBektas](https://github.com/GuldenizBektas), Kaggler 👩🏻‍💼 [@Kaggle](https://www.kaggle.com/denizbektas), and a writer, check my articles in multiple famous publications 👩🏼‍💻 [@Medium](https://medium.com/@gdenizbektass). 
+Hi there, I'm **Güldeniz Bektaş**, an **AI Engineer** and **graduated from Astronomy and Space Sciences in İstanbul University** 👩🏼‍🎓 🚀 Currently, I'm an AI Engineer at TurkNet 👩🏼‍🚀 [@GuldenizBektas](https://github.com/GuldenizBektas), Kaggler 👩🏻‍💼 [@Kaggle](https://www.kaggle.com/denizbektas), and a writer, check my articles in multiple famous publications 👩🏼‍💻 [@Medium](https://medium.com/@gdenizbektass). 
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
